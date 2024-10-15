@@ -1,1 +1,1 @@
-Bu depoda Murat Yücedağ tarafından düzenlenen C# Kamoında işlenen konular ve kodLar yer almaktadır.
+Bu depoda Murat Yücedağ tarafından düzenlenen C# Kampında işlenen konular ve kodLar yer almaktadır.
