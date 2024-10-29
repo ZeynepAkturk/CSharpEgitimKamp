@@ -1,4 +1,4 @@
-<h1> 💻 C# Eğitim Kampı, Murat Yücedağ  </h1>
+<h1> 👩🏻‍💻 C# Eğitim Kampı, Murat Yücedağ 🚀 </h1>
 Bu depoda Murat Yücedağ tarafından düzenlenen C# Kampında işlenen konular ve kodlar yer almaktadır. Aşağıdaki başlıklardan eğitim içeriğine dair detaylı bilgilere erişebilirsiniz:
 <br>
 
